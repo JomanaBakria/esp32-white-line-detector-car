@@ -81,15 +81,16 @@ The following documents provide detailed technical information about the project
 ---
 
 ## 📷 Media
-- Photos → `media/photos/`  
-- Demo video → `media/demos/demo.mp4`  
-- GIF preview → `media/demos/demo.gif`  
+Here are some pictures of the robot in action:
+
+![Robot Front View](media/image1.jpeg)
+![Robot Side View](media/image2.jpeg)
 
 ---
 
-## 📑 Project Report
-The full project documentation and competition details are available here:  
-[`docs/project_book.pdf`](docs/project_book.pdf)
+## 🎥 Demo Video
+You can watch a demo of the robot in action here:  
+👉 [Watch the video on Google Drive](https://drive.google.com/file/d/1KyScIxi6h4kys5OYhlDdebKLkKlFJKKN/view?usp=sharing)
 
 ---
 
