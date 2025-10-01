@@ -32,7 +32,17 @@ The system is optimized to **complete the track as fast as possible** while main
 - **Motor Driver:** 2× L293D H-Bridge  
 - **Power:** 4× 18650 Li-ion cells + LM7805 regulators  
 
-📂 Detailed schematics are in [`docs/project_book.pdf`](docs/project_book.pdf)
+---
+
+## 📂 Documentation
+
+The following documents provide detailed technical information about the project:
+
+- [📘 מפרט טכני](./docs/מפרט%20טכני.pdf)
+- [📊 תרשימי זרימה](./docs/תרשימי%20זרימה.pdf)
+- [🔍 תכן מערכת זיהוי פסים](./docs/תכן%20מערכת%20זיהוי%20פסים.pdf)
+- [⚙️ תכן מכלול הנעה](./docs/תכן%20מכלול%20הנעה.pdf)
+- [🖥️ תכן מכלול בקרה ועיבוד נתונים](./docs/תכן%20מכלול%20בקרה%20ועיבוד%20נתונים.pdf)
 
 ---
 
